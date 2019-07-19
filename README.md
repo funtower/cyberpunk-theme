@@ -8,3 +8,13 @@ A crazy Cyberpunk theme for background!
 - 项目进度：完成了登陆页面的开发。
 - 技术栈：HTML + CSS + JS
 - 所用框架：Bootstrap + jQuery
+
+## 项目演示
+
+### 登陆界面
+
+![Code Screenshot](/assets/preview_login.gif?raw=true "Code Screenshot")
+
+### 其他界面
+
+后续会进一步开发其他功能页面，希望能遇到志同道合的朋友。
