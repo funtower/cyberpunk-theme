@@ -3,7 +3,11 @@ jQuery(document).ready(function () {
     /**
      *  Fullscreen background
      */
-    $.backstretch(["assets/img/backgrounds/bg.jpg"], {
+    $.backstretch(["assets/img/backgrounds/bg.jpg",
+        "assets/img/backgrounds/bg2.jpg",
+        "assets/img/backgrounds/bg3.jpg",
+        "assets/img/backgrounds/bg4.jpg",
+    ], {
         duration: 3000,
         fade: 750
     });

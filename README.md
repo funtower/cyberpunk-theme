@@ -2,7 +2,7 @@
 
 ![Banner Cyberpunk](/assets/banner.png?raw=true "Banner Cyberpunk")
 A crazy Cyberpunk theme for X-admin!  
-一个为后台系统准备的模版，采用赛博朋克的主题配色，个人非常喜欢赛博朋克风格，设计方案以及颜色搭配主要参考了 VS Code 上 <a href="https://github.com/max-SS/cyberpunk">Max</a> 大佬做的主题，这边安利一波，用起来挺舒服养眼的，由于本人技术与时间有限无法从底层自己做一整套框架，目前是基于用 layui 所做的 X-admin 后台模版进行二次开发改造，未来将会加入一些创意性的东西，并对项目结果与代码进行优化重构，在此 respect <a href="http://x.xuebingsi.com/">X-admin</a> 的开源精神，让我能站在大佬的肩膀学习进步！
+一个为后台系统准备的模版，采用 Neon 风格的主题配色，个人非常喜欢赛博朋克，设计方案以及颜色搭配主要参考了 VS Code 上 <a href="https://github.com/max-SS/cyberpunk">Max</a> 大佬做的主题，个人觉得更偏向蒸汽波一点，这边安利一波，用起来挺舒服养眼的，由于本人技术与时间有限无法从底层自己做一整套框架，目前是基于用 layui 所做的 X-admin 后台模版进行二次开发改造，未来将会加入一些创意性的东西，并对项目结果与代码进行优化重构，在此 respect <a href="http://x.xuebingsi.com/">X-admin</a> 的开源精神，让我能站在大佬的肩膀学习进步！
 
 - 项目名称：赛博朋克主题后台模版。
 - 项目进度：完成了登陆页面的开发。
@@ -13,6 +13,7 @@ A crazy Cyberpunk theme for X-admin!
 
 ### 登陆界面
 
+背景可自动切换，只需在 <a href="https://github.com/Crowch/Cyberpunk/blob/master/assets/js/scripts.js">scripts.js</a> 文件中配置好图片路径即可。
 ![Code Screenshot](/assets/preview_login.jpg?raw=true "Code Screenshot")
 
 ### 首页界面
