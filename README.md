@@ -13,7 +13,7 @@ A crazy Cyberpunk theme for X-admin!
 
 ### 登陆界面
 
-背景可自动切换，只需在 <a href="https://github.com/Crowch/Cyberpunk/blob/master/assets/js/scripts.js">scripts.js</a> 文件中配置好图片路径即可。
+背景会自动轮播，只需在 <a href="https://github.com/Crowch/Cyberpunk/blob/master/assets/js/scripts.js">scripts.js</a> 文件中配置好图片路径即可。
 ![Code Screenshot](/assets/preview_login.jpg?raw=true "Code Screenshot")
 
 ### 首页界面

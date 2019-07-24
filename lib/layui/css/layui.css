@@ -1759,8 +1759,8 @@ a cite {
     height: 42px;
     line-height: 42px;
     padding: 0 15px 0 35px;
-    color: #333;
-    background-color: #f2f2f2;
+    color: #00FF9C;
+    background-color: #100C23;
     cursor: pointer;
     font-size: 14px;
     overflow: hidden
@@ -1783,7 +1783,7 @@ a cite {
 .layui-card {
     margin-bottom: 15px;
     border-radius: 2px;
-    background-color: #fff;
+    background-color: #100c23;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .05)
 }
 
@@ -1916,7 +1916,7 @@ a cite {
 
 .layui-timeline-item:before,
 hr {
-    background-color: #e6e6e6
+    background-color: #b135e4
 }
 
 .layui-text {
@@ -1972,8 +1972,8 @@ hr {
     height: 38px;
     line-height: 38px;
     padding: 0 18px;
-    background-color: #009688;
-    color: #fff;
+    background-color: #119b8e;
+    color: #100c23;
     white-space: nowrap;
     text-align: center;
     font-size: 14px;
@@ -1983,9 +1983,9 @@ hr {
 }
 
 .layui-btn:hover {
-    opacity: .8;
+    background: #00ff9c;
     filter: alpha(opacity=80);
-    color: #fff
+    color: black;
 }
 
 .layui-btn:active {
@@ -2041,11 +2041,11 @@ hr {
 }
 
 .layui-btn-warm {
-    background-color: #FFB800
+    background-color: #e8ee57
 }
 
 .layui-btn-danger {
-    background-color: #FF5722
+    background-color: #ff0057;
 }
 
 .layui-btn-disabled,
@@ -2307,7 +2307,7 @@ hr {
 
 .layui-form-select dl dt {
     font-size: 12px;
-    color: #fff 
+    color: #fff
 }
 
 .layui-form-select dl dd {
@@ -2462,7 +2462,7 @@ hr {
     padding-right: 15px;
     line-height: 18px;
     background: 0 0;
-    color: #666
+    color: #00ff9c;
 }
 
 .layui-form-checkbox[lay-skin=primary] i {
@@ -3083,7 +3083,6 @@ hr {
 .layui-table[lay-skin=row] {
     border-width: 1px;
     border-style: solid;
-    border-color: #e6e6e6
 }
 
 .layui-table td,
@@ -3224,8 +3223,7 @@ hr {
     line-height: 16px;
     margin-right: 10px;
     text-align: center;
-    color: #333;
-    border: 1px solid #ccc;
+    border: 1px solid #00ff9c;
     cursor: pointer;
     -webkit-transition: .5s all;
     transition: .5s all
@@ -3256,10 +3254,10 @@ hr {
     padding: 5px 0;
     min-width: 150px;
     min-height: 40px;
-    border: 1px solid #d2d2d2;
+    border: 1px solid #00ff9C;
     text-align: left;
     overflow-y: auto;
-    background-color: #fff;
+    background-color: #032115;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .12)
 }
 
@@ -3283,7 +3281,7 @@ hr {
 }
 
 .layui-table-tool-panel li:hover {
-    background-color: #f2f2f2
+    background-color: #100C23;
 }
 
 .layui-table-tool-panel li .layui-form-checkbox[lay-skin=primary] i {
@@ -4099,9 +4097,11 @@ body .layui-table-tips .layui-layer-content {
     line-height: 39px;
     border-width: 1px;
     border-style: solid;
+    color: #00FF9C;
+    border-color: #00ff9c;
     border-radius: 2px;
     text-align: center;
-    background-color: #fff;
+    background-color: #100c23;
     cursor: pointer
 }
 

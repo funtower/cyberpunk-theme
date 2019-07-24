@@ -286,6 +286,7 @@ body {
 .left-nav #nav li a i {
     padding-right: 10px;
     line-height: 14px;
+    color: #00ff9c;
 }
 
 .left-nav #nav li .nav_right {
@@ -576,6 +577,7 @@ table td {
 .x-admin-sm .layui-table td,
 .x-admin-sm .layui-table th {
     font-size: 12px;
+    border: 1px solid;
 }
 
 .x-admin-sm .layui-elem-field legend {
@@ -653,6 +655,7 @@ table td {
 .x-admin-sm .layui-form-pane .layui-form-label {
     height: 30px;
     line-height: 14px;
+    background: #100C23;
 }
 
 .x-admin-sm .layui-form-checkbox span {

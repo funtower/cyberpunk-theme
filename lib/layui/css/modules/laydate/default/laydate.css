@@ -112,7 +112,7 @@ html #layuicss-laydate {
 .layui-laydate-header i {
     position: absolute;
     top: 10px;
-    color: #999;
+    color: #0fa493;
     font-size: 18px
 }
 
@@ -220,8 +220,8 @@ html #layuicss-laydate {
     line-height: 26px;
     margin: 0 0 0 -1px;
     padding: 0 10px;
-    border: 1px solid #C9C9C9;
-    background-color: #fff;
+    border: 1px solid #00ff9c;
+    background-color: #032115;
     white-space: nowrap;
     vertical-align: top;
     border-radius: 2px
@@ -317,14 +317,15 @@ html #layuicss-laydate {
 
 .layui-laydate,
 .layui-laydate-hint {
-    border: 1px solid #d2d2d2;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, .12);
+    border: 1px solid #00ff9c;
+    box-shadow: 0px 1px 8px 3px #00FF9D;
     background-color: #fff;
     color: #666
 }
 
 .layui-laydate-header {
-    border-bottom: 1px solid #e2e2e2
+    border-bottom: 1px solid #00ff9c;
+    background: #032115;
 }
 
 .layui-laydate-header i:hover,
@@ -334,16 +335,17 @@ html #layuicss-laydate {
 
 .layui-laydate-content {
     border-top: none 0;
-    border-bottom: none 0
+    border-bottom: none 0;
+    background: #032115;
 }
 
 .layui-laydate-content th {
     font-weight: 400;
-    color: #333
+    color: #ff03f7;
 }
 
 .layui-laydate-content td {
-    color: #666
+    color: #119b8d;
 }
 
 .layui-laydate-content td.laydate-selected {
@@ -377,7 +379,7 @@ html #layuicss-laydate {
 
 .layui-laydate-content .laydate-day-next,
 .layui-laydate-content .laydate-day-prev {
-    color: #d2d2d2
+    color: #ff4081
 }
 
 .laydate-selected.laydate-day-next,
@@ -386,7 +388,8 @@ html #layuicss-laydate {
 }
 
 .layui-laydate-footer {
-    border-top: 1px solid #e2e2e2
+    border-top: 1px solid #00ff9c;
+    background: #032115;
 }
 
 .layui-laydate-hint {
@@ -406,8 +409,8 @@ html #layuicss-laydate {
 }
 
 .layui-laydate .layui-this {
-    background-color: #009688 !important;
-    color: #fff !important
+    background-color: #100c23 !important;
+    color: #00ff9c !important;
 }
 
 .layui-laydate .laydate-disabled,
